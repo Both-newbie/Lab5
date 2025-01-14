@@ -1,10 +1,10 @@
-package lab05.tasks;
+package lab5.tasks;
 
 /**
- * Describe about a Subject in IP class. 
- * @author Sreng
- * @version 1.0
- * @modified 10/01/2025
+ * Create class name Subject.java represents a subject.
+ * @author Panhaboth
+ * @version 1.1
+ * @modified 14/01/2025
  */
 public class Subject {
 	private String subjectName; //e.g. Introduction to SE
